@@ -13,6 +13,7 @@ gql = "^3.5.0"
 pydantic = "^2.7.0"
 tenacity = "^8.2.3"
 requests-toolbelt = "^1.0.0"
+beautifulsoup4 = "^4.12.3"
 
 
 [build-system]
